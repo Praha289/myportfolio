@@ -689,3 +689,35 @@ button:hover {
     max-width: 100%;
   }
 }
+@media (max-width: 480px) {
+  .contact-form {
+    padding: 10px;
+  }
+
+  .contact-form h2 {
+    font-size: 1.2rem;
+    line-height: 1.4;
+  }
+
+  .contact-form .form-control {
+    font-size: 14px;
+    padding: 10px;
+    margin: 10px 0;
+  }
+
+  .contact-form textarea.form-control {
+    height: 120px;
+  }
+
+  .contact-form .submit-btn {
+    font-size: 14px;
+    padding: 10px;
+  }
+
+  .col-lg-6,
+  .col-lg-5 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}
+
