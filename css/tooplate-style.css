@@ -659,3 +659,33 @@ button:hover {
   background-color: #121212;
   color: #fff;
 }
+@media (max-width: 767px) {
+  .contact-form {
+    padding: 15px;
+  }
+
+  .contact-form h2 {
+    font-size: 1.5rem;
+    text-align: center;
+  }
+
+  .contact-form .form-control {
+    width: 100%;
+    margin: 12px 0;
+  }
+
+  .contact-form .submit-btn {
+    width: 100%;
+    margin-top: 10px;
+  }
+
+  .ml-lg-auto {
+    margin-left: 0 !important;
+  }
+
+  .col-lg-6,
+  .col-lg-5 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}
