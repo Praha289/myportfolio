@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Uma Manipraharshitha (Praha) 👨‍💻
+# 👋 Hello, I'm Uma Mani Praharshitha  👨‍💻
 
 I'm a passionate tech enthusiast pursuing a dual degree in **Computer Science Engineering** from **JNTUK (UCEK)** and a **B.Sc in Data Science** from **IIT Madras**. I love exploring real-world challenges through code and contributing to meaningful projects in **full-stack development** and **data science**.
 
